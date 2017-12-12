@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Web", "News.Web\News.Web.csproj", "{4583F358-2BF3-4CCD-9B0E-6FB6A6474769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Data", "News.Data\News.Data.csproj", "{5A7D8D03-1519-4877-863B-63823FAC1D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Tests", "News.Tests\News.Tests.csproj", "{C5186266-0936-4330-B1F4-B46232E19BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4583F358-2BF3-4CCD-9B0E-6FB6A6474769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4583F358-2BF3-4CCD-9B0E-6FB6A6474769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4583F358-2BF3-4CCD-9B0E-6FB6A6474769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4583F358-2BF3-4CCD-9B0E-6FB6A6474769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7D8D03-1519-4877-863B-63823FAC1D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7D8D03-1519-4877-863B-63823FAC1D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7D8D03-1519-4877-863B-63823FAC1D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7D8D03-1519-4877-863B-63823FAC1D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5186266-0936-4330-B1F4-B46232E19BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5186266-0936-4330-B1F4-B46232E19BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5186266-0936-4330-B1F4-B46232E19BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5186266-0936-4330-B1F4-B46232E19BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE81227-339A-4395-8087-0B1E98800351}
+	EndGlobalSection
+EndGlobal
